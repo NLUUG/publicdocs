@@ -1,15 +1,13 @@
 # STATUTENWIJZIGING VERENIGING 
 
 
-Heden, twee juni tweeduizend tien,
-verschenen voor mij, Mr Peter van der Kolk, notaris te Ede:
-1.	de heer **Lucas Jacobus Wilhelmus Nieland**, wonende te 3531 WD Utrecht, Molukkenstraat 26, geboren te Nijmegen op vijftien april negentienhonderd negenenzestig en ongehuwd en niet geregistreerd als partner in de zin van het geregistreerd partnerschap;
-	(de identiteit is door mij, notaris, vastgesteld, blijkens het navolgende document: paspoort, nummer NRL525DD9, geldig tot drieëntwintig augustus tweeduizend twaalf);
-2.	de heer **Marcus Arnold Carel Johannus Overmeer**, wonende te 6815 BH Arnhem, Sweelincklaan 8, geboren te Arnhem op vijf april negentienhonderd zesenzestig en gehuwd;
-	(de identiteit is door mij, notaris, vastgesteld, blijkens het navolgende document: paspoort, nummer NV4528942, geldig tot tweeëntwintig juni tweeduizend twaalf);
-ten deze handelend in hun hoedanigheid van respectievelijk voorzitter en secretaris van de vereniging: 
-**Nederlandse Lokale UNIX-Systems Gebruikers Groep (Nluug)**, statutair gevestigd te Amsterdam, ingeschreven in het Handelsregister onder dossiernummer 40533872 en adres hebbend te 6711 PL Ede, Stationsweg 73 C; 
-en als zodanig deze vereniging rechtsgeldig vertegenwoordigend;
+~~Heden, twee juni tweeduizend tien,
+verschenen voor mij, Mr Peter van der Kolk, notaris te Ede:~~
+1.	de heer XXX
+2.	de heer XXX
+
+~~ten deze handelend in hun hoedanigheid van respectievelijk voorzitter en secretaris van de vereniging: 
+**Nederlandse Lokale UNIX-Systems Gebruikers Groep (Nluug)**, statutair gevestigd te Amsterdam, ingeschreven in het Handelsregister onder dossiernummer 40533872 en adres hebbend te 6711 PL Ede, Stationsweg 73 C; en als zodanig deze vereniging rechtsgeldig vertegenwoordigend;~~
 
 De verschenen personen verklaarden:
 
