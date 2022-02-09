@@ -24,17 +24,17 @@ Ter uitvoering van gemeld besluit verklaarden de verschenen personen, handelend 
 ## STATUTEN
 
 ### Definities:
-
 - “Open” in de context van standaarden duidt op specificaties waarvan de beschrijving voldoende gedetailleerd is en vrij van patenten, waardoor commerciële en niet-commerciële partijen deze zonder belemmering kunnen implementeren en verspreiden.
 - “Open” in de context van systemen duidt op computerapparatuur waarvan de werking van alle componenten zoveel mogelijk gebruik maakt van Open standaarden.
+- Schriftelijk kan zowel per (post)brief, e-mail, als een digitale berichtendienst zijn.
 
-#### Artikel 1: Naam en zetel
-
+## Naam en zetel
+### Artikel 1
 1.	De vereniging draagt de naam: “NLUUG”.
 2.	Zij heeft haar zetel in de gemeente Amsterdam.
 
-### Artikel 2: Doel
-
+## Doel
+### Artikel 2
 1.	Het doel van de vereniging is:
 	1.	in het algemeen, het behartigen van de belangen van gebruikers van op Open standaarden gebaseerde software en Open systemen.
 	2.	het onder de leden verspreiden van kennis over Open standaarden en de software en infrastructuur die daar gebruik van maakt.
@@ -48,22 +48,22 @@ Ter uitvoering van gemeld besluit verklaarden de verschenen personen, handelend 
 	4.	contacten te onderhouden met andere nationale en internationale organisaties met vergelijkbare doelstellingen.
 	5.	het opbouwen en onderhouden van contacten met leveranciers van hardware, software, kennis en/of kunde, die geacht worden voor haar leden van belang te zijn.
 
-### Artikel 3: Duur
-
+## Duur
+### Artikel 3
 1.	De vereniging is aangegaan voor onbepaalde tijd.
 2.	Het boekjaar van de vereniging is gelijk aan het kalenderjaar.
 3.	De vereniging is opgericht op tien december negentienhonderd tweeëntachtig.
 
-### Artikel 4: Lidmaatschap
-
-1.	De vereniging kent leden. Leden kunnen zijn natuurlijke- en rechtspersonen.
-2.	Leden zijn zij die zich schriftelijk als lid bij het bestuur hebben aangemeld en door het bestuur als lid zijn toegelaten. Hiervan blijkt uit een door het bestuur afgegeven verklaring.
+## Lidmaatschap
+### Artikel 4
+1.	De vereniging kent leden. Leden zijn natuurlijke personen, geen rechtspersonen.
+2.	Leden zijn zij die zich schriftelijk als lid bij het bestuur hebben aangemeld en door het bestuur als lid zijn toegelaten. Hiervan blijkt uit een door het bestuur afgegeven verklaring. (is dit juridische taal of incorrect nederlands?)
 	Ingeval van niet-toelating door het bestuur kan de algemene ledenvergadering alsnog tot toelating besluiten.
-3.	Het lidmaatschap van een natuurlijk persoon is persoonlijk en kan niet worden overgedragen of door erfopvolging worden verkregen.
-4.	Het lidmaatschap van een lid wordt te allen tijde gerepresenteerd door de correspondenten.
-Artikel 5
+3.	Het lidmaatschap is persoonlijk en kan niet worden overgedragen of door erfopvolging worden verkregen.
+
+### Artikel 5
 1.	Het lidmaatschap eindigt:
-	1.	door de dood van het lid(of wanneer een rechtspersoon ophoudt te bestaan);
+	1.	door de dood van het lid;
 	2.	door opzegging door het lid;
 	3.	door opzegging door de vereniging;
 	4.	door ontzetting.
@@ -84,51 +84,60 @@ Artikel 5
 	Gedurende de beroepstermijn en hangende het beroep is het lid geschorst. Een geschorst lid heeft geen stemrecht.
 5.	Wanneer het lidmaatschap in de loop van een boekjaar eindigt, blijft de jaarlijkse bijdrage voor het geheel door het lid verschuldigd, tenzij het bestuur anders beslist.
 
-### Artikel 6: Donateurs
-
+## Donateurs
+### Artikel 6
 1.	Donateurs zijn zij, die door het bestuur als donateur zijn toegelaten. Het bestuur is bevoegd het donateurschap door schriftelijke opzegging te beëindigen.
 2.	Donateurs zijn verplicht jaarlijks aan de vereniging een geldelijke bijdrage te verlenen, waarvan de minimale omvang door de algemene ledenvergadering wordt vastgesteld.
 3.	Donateurs hebben uitsluitend het recht om de algemene ledenvergadering bij te wonen. Zij hebben daarin geen stemrecht, maar wel het recht om het woord te voeren.
+4.	Het donateurschap eindigt:
+	1.	door opheffing van de rechtspersoon;
+	2.	door opzegging door de donateur;
+	3.	door opzegging door de vereniging;
+	4.	door ontzetting.
+5.	Opzegging van het donateurschap door de donateur kan slechts geschieden tegen het einde van een verenigingsjaar. Zij geschiedt schriftelijk aan het bestuur.
+6.	Opzegging van het donateurschap namens de vereniging kan tegen het einde van het lopende boekjaar door het bestuur worden gedaan.
+	De opzegging geschiedt steeds schriftelijk met opgave van de redenen.
+7.	Ontzetting uit het donateurschap kan alleen worden uitgesproken wanneer een donateur in strijd met de statuten, reglementen of besluiten van de vereniging handelt of wanneer de donateur de vereniging op onredelijke wijze benadeelt. Zij geschiedt door het bestuur, dat de donateur zo spoedig mogelijk van het besluit in kennis stelt, met opgave van de redenen. 
+8.	Wanneer het donateurschap in de loop van een boekjaar eindigt, blijft de jaarlijkse bijdrage voor het geheel door de donateur verschuldigd, tenzij het bestuur anders beslist.
 
-### Artikel 7: Contributies
-
+## Contributies
+### Artikel 7
 Ieder lid is jaarlijks een contributie verschuldigd. De hoogte van de contributie wordt vastgesteld door de algemene ledenvergadering.
 
-### Artikel 8: Bestuur
-
+## Bestuur
+### Artikel 8
 1.	Het bestuur bestaat uit ten minste drie natuurlijke personen, die uit hun midden een voorzitter, een secretaris en een penningmeester aanwijzen.
-2.	De bestuursleden worden door de algemene ledenvergadering benoemd uit de leden van de vereniging.
+2.  Bestuursleden hebben ieder één (1) stem in de bestuursvergadering. Bij staken van stemmen beslist de voorzitter, bij afwezigheid van de voorzitter beslist het oudste aanwezige bestuurslid. (Toevoeging WBTR artikel 1)
+3.	De bestuursleden worden door de algemene ledenvergadering benoemd uit de leden van de vereniging.
 	De algemene ledenvergadering stelt het aantal bestuursleden vast.
-3.	Bestuursleden kunnen te allen tijde onder opgaaf van redenen door de algemene ledenvergadering worden geschorst en ontslagen. De algemene ledenvergadering besluit tot schorsing of ontslag met een meerderheid van twee/derde van de uitgebrachte stemmen.
-4.	De schorsing eindigt wanneer de algemene ledenvergadering niet binnen drie maanden daarna tot ontslag heeft besloten. Het geschorste bestuurslid wordt in de gelegenheid gesteld zich in de algemene ledenvergadering te verantwoorden en kan zich daarbij door een raadsman doen bijstaan.
-5.	Bestuursleden worden benoemd voor een periode van maximaal drie (3) jaar. Onder een jaar wordt te dezen verstaan de periode tussen twee opeenvolgende jaarlijkse algemene ledenvergaderingen. De bestuursleden treden af volgens een door het bestuur op te maken rooster. Een volgens het rooster aftredend bestuurslid is onbeperkt onmiddellijk herbenoembaar.
-6.	Indien het aantal bestuursleden beneden het in lid 1 vermelde minimum is gedaald, blijft het bestuur niettemin bevoegd. Het bestuur is verplicht zo spoedig mogelijk een algemene ledenvergadering te beleggen, waarin de voorziening in de vacature(s) aan de orde komt.
-7.	Op de vergaderingen en de besluitvorming van het bestuur is het bepaalde in de artikelen 11 tot en met 14 zoveel mogelijk van toepassing.
+4.	Bestuursleden kunnen te allen tijde onder opgaaf van redenen door de algemene ledenvergadering worden geschorst en ontslagen. De algemene ledenvergadering besluit tot schorsing of ontslag met een meerderheid van twee/derde van de uitgebrachte stemmen.
+5.	De schorsing eindigt wanneer de algemene ledenvergadering niet binnen drie maanden daarna tot ontslag heeft besloten. Het geschorste bestuurslid wordt in de gelegenheid gesteld zich in de algemene ledenvergadering te verantwoorden en kan zich daarbij door een raadsman doen bijstaan.
+6.	Bestuursleden worden benoemd voor een periode van maximaal drie (3) jaar. Onder een jaar wordt te dezen verstaan de periode tussen twee opeenvolgende jaarlijkse algemene ledenvergaderingen. De bestuursleden treden af volgens een door het bestuur op te maken rooster. Een volgens het rooster aftredend bestuurslid is onbeperkt onmiddellijk herbenoembaar.
+7.  Bestuurstaken worden zo ordentelijk mogelijk overgedragen. Een vertrekkende bestuurder moet de gelegenheid krijgen te laten zien wat hij heeft gedaan tijdens zijn bestuursperiode. Is alles goed overgedragen, dan kan het overig bestuur hem décharge verlenen. (Toevoeging WBTR artikel 10)
+8.	Indien het aantal bestuursleden beneden het in lid 1 vermelde minimum is gedaald, blijft het bestuur niettemin bevoegd. Het bestuur is verplicht zo spoedig mogelijk een algemene ledenvergadering te beleggen, waarin de voorziening in de vacature(s) aan de orde komt.
+9.	Op de vergaderingen en de besluitvorming van het bestuur is het bepaalde in de artikelen 11 tot en met 14 zoveel mogelijk van toepassing.
 
 ### Artikel 9
-
 1.	Het bestuur is belast met het besturen van de vereniging.
 2.	Het bestuur is, met voorafgaande goedkeuring van de algemene ledenvergadering, bevoegd te besluiten tot het aangaan van overeenkomsten tot verkrijging, vervreemding of bezwaring van registergoederen en tot het aangaan van overeenkomsten waarbij de vereniging zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidstelling voor een schuld van een ander verbindt.
 
 ### Artikel 10
-
 1.	Het bestuur vertegenwoordigt de vereniging.
 2.	De vertegenwoordigingsbevoegdheid komt mede toe aan de voorzitter tezamen met de secretaris of de penningmeester, dan wel de secretaris tezamen met de penningmeester.
 
-### Artikel 11: Algemene ledenvergaderingen
-
+## Algemene ledenvergaderingen
+### Artikel 11
 De algemene ledenvergaderingen worden gehouden in Nederland en wel zoals in de oproeping vermeld.
 
 ### Artikel 12
 1.	Toegang tot de algemene ledenvergadering hebben alle leden die niet geschorst zijn, de donateurs alsmede degenen, die daartoe door het bestuur en/of de algemene ledenvergadering zijn uitgenodigd.
 	Een geschorst lid heeft toegang tot de vergadering waarin het besluit tot zijn schorsing wordt behandeld, en is bevoegd daarover dan het woord te voeren.
-2.	Ieder lid heeft één stem die uitgebracht wordt door de correspondent. Iedere correspondent is bevoegd zijn stem te doen uitbrengen door een schriftelijk daartoe gemachtigd lid.
+2.	Ieder lid heeft één stem die uitgebracht kan worden. Ieder lid is bevoegd zijn stem te doen laten uitbrengen door een schriftelijk daartoe gemachtigd lid.
 3.	Een eenstemmig besluit van alle stemgerechtigde leden, ook al zijn zij niet in vergadering bijeen, heeft, mits met voorkennis van het bestuur genomen, dezelfde kracht als een besluit van de algemene ledenvergadering. Dit besluit kan ook schriftelijk tot stand komen.
 4.	De voorzitter bepaalt de wijze waarop de stemmingen in de algemene ledenvergadering worden gehouden.
 5.	Alle besluiten waaromtrent bij de wet of bij deze statuten geen grotere meerderheid is voorgeschreven, worden genomen bij volstrekte meerderheid van de uitgebrachte stemmen. Bij staking van stemmen over zaken is het voorstel verworpen. Staken de stemmen bij verkiezing van personen, dan beslist het lot. Indien bij verkiezing tussen meer dan twee personen door niemand een volstrekte meerderheid is verkregen, wordt herstemd tussen de twee personen, die het grootste aantal stemmen kregen, zo nodig na tussenstemming.
 
 ### Artikel 13
-
 1.	De algemene ledenvergaderingen worden geleid door de voorzitter of, bij diens afwezigheid, door het oudste aanwezige bestuurslid.
 	Zijn geen bestuursleden aanwezig, dan voorziet de vergadering zelf in haar leiding.
 2.	Het door de voorzitter ter algemene ledenvergadering uitgesproken oordeel omtrent de uitslag van een stemming, is beslissend.
@@ -139,7 +148,6 @@ De algemene ledenvergaderingen worden gehouden in Nederland en wel zoals in de o
 	Deze notulen worden in de zelfde of in de eerstvolgende algemene ledenvergadering vastgesteld en ten blijke daarvan door de voorzitter en de secretaris van die vergadering ondertekend.
 
 ### Artikel 14
-
 1.	Jaarlijks wordt ten minste één algemene ledenvergadering gehouden en wel binnen zes maanden na afloop van het boekjaar, behoudens verlenging van deze termijn door de algemene ledenvergadering. In deze algemene ledenvergadering brengt het bestuur zijn jaarverslag uit over de gang van zaken in de vereniging en over het gevoerde beleid. Het legt de balans en de staat van baten en lasten met een toelichting ter goedkeuring aan de algemene ledenvergadering over.
 	Deze stukken worden ondertekend door de bestuursleden; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van redenen melding gemaakt. Na verloop van de termijn kan ieder lid in rechte vorderen van de gezamenlijke bestuurders dat zij deze verplichtingen nakomen.
 2.	Wordt omtrent de getrouwheid van de stukken bedoeld in het vorige lid aan de algemene ledenvergadering niet overgelegd een verklaring afkomstig van een accountant als bedoeld in artikel 2:393 lid 1 van het Burgerlijk Wetboek, dan benoemt de algemene ledenvergadering, jaarlijks, een commissie van ten minste twee leden die geen deel van het bestuur mogen uitmaken.
@@ -148,25 +156,24 @@ De algemene ledenvergaderingen worden gehouden in Nederland en wel zoals in de o
 5.	Vergt dit onderzoek naar het oordeel van de commissie bijzondere boekhoudkundige kennis, dan kan zij zich op kosten van de vereniging door een deskundige doen bijstaan. De commissie brengt aan de algemene ledenvergadering verslag van haar bevindingen uit.
 
 ### Artikel 15
-
 1.	Algemene ledenvergaderingen worden door het bestuur bijeengeroepen zo dikwijls het dit wenselijk oordeelt of daartoe op grond van de wet verplicht is.
 2.	Op schriftelijk verzoek van ten minste één/tiende gedeelte van de stemgerechtigde leden is het bestuur verplicht tot het bijeenroepen van een algemene ledenvergadering, te houden binnen vier weken na indiening van het verzoek.
 	Indien aan het verzoek binnen veertien dagen geen gevolg wordt gegeven, kunnen de verzoekers zelf tot de bijeenroeping van de algemene ledenvergadering overgaan op de wijze als in lid 3 bepaald. De verzoekers kunnen alsdan anderen dan bestuursleden belasten met de leiding van de vergadering en het opstellen van de notulen.
 3.	De bijeenroeping van de algemene ledenvergadering geschiedt door schriftelijk mededeling aan de stemgerechtigden op een termijn van ten minste zeven dagen.
 	Bij de oproeping worden de te behandelen onderwerpen vermeld.
 	
-### Artikel 16: Statutenwijziging
-
+## Statutenwijziging
+### Artikel 16
 1.	Wijziging van de statuten kan slechts plaatshebben door een besluit van de algemene ledenvergadering, waartoe is opgeroepen met de mededeling dat aldaar wijziging van de statuten zal worden voorgesteld.
 2.	Zij, die de oproeping tot de algemene ledenvergadering ter behandeling van een voorstel tot statutenwijziging hebben gedaan, moeten ten minste vijf dagen voor de dag van de vergadering een afschrift van dat voorstel, waarin de voorgestelde wijziging woordelijk is opgenomen, op een daartoe geschikte plaats voor de leden ter inzage leggen tot na de afloop van de dag, waarop de vergadering werd gehouden.
 3.	Tot wijziging van de statuten kan door de algemene ledenvergadering slechts worden besloten met een meerderheid van ten minste twee/derde van het aantal uitgebrachte stemmen. 
 4.	De statutenwijziging treedt eerst in werking nadat daarvan een notariële akte is opgemaakt.
 	Ieder van de bestuursleden is bevoegd de akte van statutenwijziging te doen verlijden.
 5.	Het bepaalde in de leden 1 en 2 is niet van toepassing, indien in de algemene ledenvergadering alle stemgerechtigden aanwezig of vertegenwoordigd zijn en het besluit tot statutenwijziging met algemene stemmen wordt genomen.
-6.	De bestuursleden zijn verplicht een authentiek afschrift van de akte van statutenwijziging en een volledige doorlopende tekst van de statuten, zoals deze na de wijziging luiden, neer te leggen ten kantore van het door de Kamer van Koophandel en Fabrieken gehouden register.
+6.	De bestuursleden zijn verplicht een authentiek afschrift van de akte van statutenwijziging en een volledige doorlopende tekst van de statuten, zoals deze na de wijziging luiden, neer te leggen ten kantore van het door de Kamer van Koophandel gehouden register.
 
-### Artikel 17: Ontbinding en vereffening
-
+## Ontbinding en vereffening
+### Artikel 17
 1.	Het bepaalde in artikel 16 leden 1, 2, 3 en 5 is van overeenkomstige toepassing op een besluit van de algemene ledenvergadering tot ontbinding van de vereniging.
 2.	De algemene ledenvergadering stelt bij haar in het vorige lid bedoelde besluit de bestemming vast voor het batig saldo, en wel zoveel mogelijk in overeenstemming met het doel van de vereniging.
 3.	De vereffening geschiedt door het bestuur.
@@ -175,18 +182,17 @@ De algemene ledenvergaderingen worden gehouden in Nederland en wel zoals in de o
 5.	De vereffening eindigt op het tijdstip waarop geen aan de vereffenaar bekende baten meer aanwezig zijn.
 6.	De boeken en bescheiden van de ontbonden vereniging moeten worden bewaard gedurende tien jaren na afloop van de vereffening. Bewaarder is degene die door de vereffenaars als zodanig is aangewezen.
 
-### Artikel 18: Reglementen
-
-1.	De algemene ledenvergadering kan een of meer reglementen vaststellen en wijzigen, waarin onderwerpen worden geregeld waarin door deze statuten niet of niet volledig wordt voorzien.
+## Reglementen
+### Artikel 18
+1.	De algemene ledenvergadering kan één of meer reglementen vaststellen en wijzigen, waarin onderwerpen worden geregeld waarin door deze statuten niet of niet volledig wordt voorzien.
 2.	Een reglement mag geen bepalingen bevatten, die strijdig zijn met de wet of met deze statuten.
 3.	Op besluiten tot vaststelling en tot wijziging van een reglement is het bepaalde in artikel 16 leden 1, 2 en 5 van overeenkomstige toepassing.
 
-### Artikel 19: Slotbepaling
-
+## Slotbepaling
+### Artikel 19
 Aan de algemene ledenvergadering komen in de vereniging alle bevoegdheden toe, die niet door de wet of de statuten aan andere organen zijn opgedragen.
 
 ## SLOT AKTE
-
 Waarvan akte is verleden te Ede op de datum in het hoofd van deze akte vermeld.
 De verschenen personen zijn mij, notaris, bekend.
 De inhoud van de akte is aan hen opgegeven en toegelicht. De verschenen personen hebben verklaard op volledige voorlezing van de akte geen prijs te stellen, tijdig voor het verlijden van de inhoud van de akte te hebben kennis genomen en met de inhoud in te stemmen.
