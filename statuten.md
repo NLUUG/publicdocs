@@ -24,7 +24,7 @@ Ter uitvoering van gemeld besluit verklaarden de verschenen personen, handelend 
 ### Definities:
 - “Open” in de context van standaarden duidt op specificaties waarvan de beschrijving voldoende gedetailleerd is en vrij van patenten, waardoor commerciële en niet-commerciële partijen deze zonder belemmering kunnen implementeren en verspreiden.
 - “Open” in de context van systemen duidt op computerapparatuur waarvan de werking van alle componenten zoveel mogelijk gebruik maakt van Open standaarden.
-- Schriftelijk kan zowel per (post)brief, e-mail, als een digitale berichtendienst zijn.
+- Schriftelijk kan zowel per (post)brief als per e-mail zijn.
 
 ## Naam en zetel
 ### Artikel 1
@@ -55,7 +55,7 @@ Ter uitvoering van gemeld besluit verklaarden de verschenen personen, handelend 
 ## Lidmaatschap
 ### Artikel 4
 1.	De vereniging kent leden. Leden zijn natuurlijke personen, geen rechtspersonen.
-2.	Leden zijn zij die zich schriftelijk als lid bij het bestuur hebben aangemeld en door het bestuur als lid zijn toegelaten. Hiervan blijkt uit een door het bestuur afgegeven verklaring. (is dit juridische taal of incorrect nederlands?)
+2.	Leden zijn zij die zich schriftelijk als lid bij het bestuur hebben aangemeld en door het bestuur als lid zijn toegelaten. Dit blijkt uit een door het bestuur afgegeven verklaring.
 	Ingeval van niet-toelating door het bestuur kan de algemene ledenvergadering alsnog tot toelating besluiten.
 3.	Het lidmaatschap is persoonlijk en kan niet worden overgedragen of door erfopvolging worden verkregen.
 
@@ -82,25 +82,25 @@ Ter uitvoering van gemeld besluit verklaarden de verschenen personen, handelend 
 	Gedurende de beroepstermijn en hangende het beroep is het lid geschorst. Een geschorst lid heeft geen stemrecht.
 5.	Wanneer het lidmaatschap in de loop van een boekjaar eindigt, blijft de jaarlijkse bijdrage voor het geheel door het lid verschuldigd, tenzij het bestuur anders beslist.
 
-## Donateurs
+## Bedrijfsregelingen
 ### Artikel 6
-1.	Donateurs zijn zij, die door het bestuur als donateur zijn toegelaten. Het bestuur is bevoegd het donateurschap door schriftelijke opzegging te beëindigen.
-2.	Donateurs zijn verplicht jaarlijks aan de vereniging een geldelijke bijdrage te verlenen, waarvan de minimale omvang door de algemene ledenvergadering wordt vastgesteld.
-3.	Donateurs hebben uitsluitend het recht om de algemene ledenvergadering bij te wonen. Zij hebben daarin geen stemrecht, maar wel het recht om het woord te voeren.
-4.	Het donateurschap eindigt:
+1.	Organisaties met een bedrijfsregeling zijn zij, die door het bestuur als zodanig zijn toegelaten. Het bestuur is bevoegd de bedrijfsregeling door schriftelijke opzegging te beëindigen.
+2.	Organisaties met een bedrijfsregeling zijn verplicht jaarlijks aan de vereniging een geldelijke bijdrage te verlenen, waarvan de minimale omvang door de algemene ledenvergadering wordt vastgesteld.
+4.	De bedrijfsregeling eindigt:
 	1.	door opheffing van de rechtspersoon;
-	2.	door opzegging door de donateur;
+	2.	door opzegging door de organisatie met de bedrijfsregeling;
 	3.	door opzegging door de vereniging;
 	4.	door ontzetting.
-5.	Opzegging van het donateurschap door de donateur kan slechts geschieden tegen het einde van een verenigingsjaar. Zij geschiedt schriftelijk aan het bestuur.
-6.	Opzegging van het donateurschap namens de vereniging kan tegen het einde van het lopende boekjaar door het bestuur worden gedaan.
+5.	Opzegging van de bedrijfsregeling door een organisatie kan slechts geschieden tegen het einde van een verenigingsjaar. Zij geschiedt schriftelijk aan het bestuur.
+6.	Opzegging van de bedrijfsregeling namens de vereniging kan tegen het einde van het lopende boekjaar door het bestuur worden gedaan.
 	De opzegging geschiedt steeds schriftelijk met opgave van de redenen.
-7.	Ontzetting uit het donateurschap kan alleen worden uitgesproken wanneer een donateur in strijd met de statuten, reglementen of besluiten van de vereniging handelt of wanneer de donateur de vereniging op onredelijke wijze benadeelt. Zij geschiedt door het bestuur, dat de donateur zo spoedig mogelijk van het besluit in kennis stelt, met opgave van de redenen. 
-8.	Wanneer het donateurschap in de loop van een boekjaar eindigt, blijft de jaarlijkse bijdrage voor het geheel door de donateur verschuldigd, tenzij het bestuur anders beslist.
+7.	Ontzetting uit de bedrijfsregeling kan alleen worden uitgesproken wanneer een organisatie in strijd met de statuten, reglementen of besluiten van de vereniging handelt of wanneer de organisatie de vereniging op onredelijke wijze benadeelt. Zij geschiedt door het bestuur, dat de organisatie zo spoedig mogelijk van het besluit in kennis stelt, met opgave van de redenen. Het beteffende organisatie is bevoegd binnen één maand na de ontvangst van de kennisgeving in beroep te gaan bij de algemene ledenvergadering. Gedurende de beroepstermijn en hangende het beroep is blijft de organisatie geschorst.
+8.	Wanneer de bedrijfsregeling in de loop van een boekjaar eindigt, blijft de jaarlijkse bijdrage voor het geheel door de organisatie verschuldigd, tenzij het bestuur anders beslist.
 
 ## Contributies
 ### Artikel 7
-Ieder lid is jaarlijks een contributie verschuldigd. De hoogte van de contributie wordt vastgesteld door de algemene ledenvergadering.
+Ieder lid is jaarlijks een contributie verschuldigd. De hoogte van de contributie wordt vastgesteld door de algemene ledenvergadering. Contributie-wijzigingen kleiner dan twee keer de inflatie-correctie kunnen zonder goedkeuring door de ALV worden doorgevoerd.
+
 
 ## Bestuur
 ### Artikel 8
@@ -125,10 +125,18 @@ Ieder lid is jaarlijks een contributie verschuldigd. De hoogte van de contributi
 
 ## Algemene ledenvergaderingen
 ### Artikel 11
-De algemene ledenvergaderingen worden gehouden in Nederland en wel zoals in de oproeping vermeld.
+1.	De algemene ledenvergaderingen worden gehouden in Nederland en wel zoals in de oproeping vermeld.
+
+#### Toegang tot en stemrecht op de ALV
+2.	Het bestuur kan besluiten dat een lid bevoegd is om in persoon, of bij schriftelijk gevolmachtigde, door middel van een elektronisch communicatiemiddel aan de algemene vergadering deel te nemen, daarin het woord te voeren en het stemrecht uit te oefenen. Het gebruik van het elektronische communicatiemiddel komt voor risico van de stemgerechtigde.
+3.	Voor de toepassing van lid 1 is vereist dat de stemgerechtigde via het elektronisch communicatiemiddel kan worden geïdentificeerd, rechtstreeks kan kennisnemen van de verhandelingen ter vergadering en het stemrecht kan uitoefenen. Door het bestuur kunnen voorwaarden worden gesteld aan het gebruik van het elektronisch communicatiemiddel. Indien het bestuur besluit voorwaarden te stellen, worden deze voorwaarden bij de oproeping bekend gemaakt.
+4. 	Het bestuur kan besluiten dat een stemgerechtigde bevoegd is zijn stem reeds voorafgaand aan de algemene vergadering via een elektronisch communicatiemiddel uit te brengen. Tot het op deze wijze stem uitbrengen zijn slechts gerechtigd zij die op een bij de bijeenroeping van de algemene vergadering te vermelden tijdstip als stemgerechtigden in het ledenregister van de vereniging staan vermeld. Op deze wijze stemmen is slechts toegestaan nadat de algemene vergadering is bijeengeroepen, doch nooit eerder dan op de veertiende dag voor die van de vergadering en nooit later dan op de dag voor die van de vergadering. Het bestuur draagt zorg voor de registratie van deze stemmen en deelt de stemmen mede aan de voorzitter van de algemene vergadering. Een stemgerechtigde die op deze wijze stem heeft uitgebracht, kan zijn stem niet herroepen. Evenmin kan hij op de algemene vergadering opnieuw stem uitbrengen. Indien het lid dat op deze wijze stem heeft uitgebracht ten tijde van de algemene vergadering niet langer lid van de vereniging is, wordt zijn stem niet geacht te zijn uitgebracht.
+
+#### Bijeenroeping ALV
+5.	Indien het bestuur heeft besloten voorwaarden te stellen aan het gebruik van het elektronisch communicatiemiddel, waarmee aan de algemene vergadering kan worden deelgenomen, of stemgerechtigde de bevoegdheid toe te kennen om reeds voorafgaand aan de algemene vergadering via een elektronisch communicatiemiddel stem uit te brengen, wordt dit bij de oproeping bekend gemaakt onder vermelding van voorwaarden.
 
 ### Artikel 12
-1.	Toegang tot de algemene ledenvergadering hebben alle leden die niet geschorst zijn, de donateurs alsmede degenen, die daartoe door het bestuur en/of de algemene ledenvergadering zijn uitgenodigd.
+1.	Toegang tot de algemene ledenvergadering hebben alle leden die niet geschorst zijn alsmede degenen, die daartoe door het bestuur en/of de algemene ledenvergadering zijn uitgenodigd.
 	Een geschorst lid heeft toegang tot de vergadering waarin het besluit tot zijn schorsing wordt behandeld, en is bevoegd daarover dan het woord te voeren.
 2.	Ieder lid heeft één stem die uitgebracht kan worden. Ieder lid is bevoegd zijn stem te doen laten uitbrengen door een schriftelijk daartoe gemachtigd lid.
 3.	Een eenstemmig besluit van alle stemgerechtigde leden, ook al zijn zij niet in vergadering bijeen, heeft, mits met voorkennis van het bestuur genomen, dezelfde kracht als een besluit van de algemene ledenvergadering. Dit besluit kan ook schriftelijk tot stand komen.
