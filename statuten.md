@@ -1,23 +1,17 @@
 # STATUTENWIJZIGING VERENIGING 
 
 
-~~Heden, twee juni tweeduizend tien,
-verschenen voor mij, Mr Peter van der Kolk, notaris te Ede:~~
-1.	de heer XXX
-2.	de heer XXX
+Op zeven juni tweeduizend drieëntwintig verscheen voor mij, mr. Adolf Dirk Plaggemars, notaris te Enschede:
 
-~~ten deze handelend in hun hoedanigheid van respectievelijk voorzitter en secretaris van de vereniging: 
-**Nederlandse Lokale UNIX-Systems Gebruikers Groep (Nluug)**, statutair gevestigd te Amsterdam, ingeschreven in het Handelsregister onder dossiernummer 40533872 en adres hebbend te 6711 PL Ede, Stationsweg 73 C; en als zodanig deze vereniging rechtsgeldig vertegenwoordigend;~~
+Arjen Schultinga, geboren te Opsterland op negentien augustus negentienhonderdvierennegentig, met kantooradres Hengelosestraat 571, 7521AG Enschede.
 
-De verschenen personen verklaarden:
+De verschenen persoon heeft verklaard dat:
+1.	de algemene vergadering van NLUUG, een vereniging met volledige rechtsbevoegdheid, statutair gevestigd te Amsterdam, met adres Sweelincklaan 8, 6815 BH Arnhem, handelsregisternummer 40533872, hierna te noemen: de "Vereniging", op elf mei tweeduizend drieëntwintig heeft besloten:
+	a.	de statuten van de Vereniging te wijzigen en geheel opnieuw vast te stellen; en
+	b.	de verschenen persoon te machtigen deze akte te doen passeren, van welke besluiten blijkt uit notulen van de algemene vergadering, waarvan een exemplaar aan deze akte zal worden gehecht;
+2.	de statuten van de Vereniging laatstelijk zijn gewijzigd bij akte op twee juni tweeduizendtien verleden voor mr. P. van der Kolk, notaris te Ede.
 
-## INLEIDING
-
--	dat de vereniging op tien december negentienhonderd tweeëntachtig is opgericht en waarvan de statuten zijn vastgelegd bij akte, veertien januari negentienhonderd drieëntachtig, verleden voor Mr Jan Willem Hesselink, destijds notaris te Winterswijk;
--	dat de statuten van de vereniging sedertdien niet zijn gewijzigd;
--	dat bij besluit van de algemene ledenvergadering van de vereniging van zes mei tweeduizend tien is besloten de statuten van de vereniging te doen wijzigen. De notulen van die vergadering wordt aan deze akte gehecht. 
-
-Ter uitvoering van gemeld besluit verklaarden de verschenen personen, handelend als gemeld, bij deze akte de statuten te wijzigen en opnieuw vast te stellen als volgt:
+De verschenen persoon heeft verklaard ter uitvoering van gemeld besluit tot statutenwijziging hierbij de statuten van de Vereniging te wijzigen en geheel opnieuw vast te stellen als volgt:
 
 ## STATUTEN
 
@@ -34,17 +28,17 @@ Ter uitvoering van gemeld besluit verklaarden de verschenen personen, handelend 
 ## Doel
 ### Artikel 2
 1.	Het doel van de vereniging is:
-	1.	in het algemeen, het behartigen van de belangen van gebruikers van op Open standaarden gebaseerde software en Open systemen.
-	2.	het onder de leden verspreiden van kennis over Open standaarden en de software en infrastructuur die daar gebruik van maakt.
-	3.	het onder de leden verspreiden van kennis over de werking van Open systemen.
-	4.	het stimuleren van de toepassing van Open standaarden en Open systemen in de professionele omgeving van onder andere bedrijven, organisaties, overheid en onderwijs.
-	5.	het verbeteren van de contacten tussen professionele gebruikers en de bedrijven die zich bezighouden met systemen gebaseerd op de UNIX traditie van Open systemen, zowel nationaal als internationaal.
+	a.	in het algemeen, het behartigen van de belangen van gebruikers van op Open standaarden gebaseerde software en Open systemen.
+	b.	het onder de leden verspreiden van kennis over Open standaarden en de software en infrastructuur die daar gebruik van maakt.
+	c.	het onder de leden verspreiden van kennis over de werking van Open systemen.
+	d.	het stimuleren van de toepassing van Open standaarden en Open systemen in de professionele omgeving van onder andere bedrijven, organisaties, overheid en onderwijs.
+	e.	het verbeteren van de contacten tussen professionele gebruikers en de bedrijven die zich bezighouden met systemen gebaseerd op de UNIX traditie van Open systemen, zowel nationaal als internationaal.
 2.	Zij tracht dit doel onder meer te bereiken door:
-	1.	het met regelmaat organiseren van onafhankelijke technische conferenties voor leden, waarbij ook leveranciers en gelieerde groepen zich kunnen presenteren.
-	2.	het stimuleren, initiëren en organiseren van thema-bijeenkomsten en andere ontmoetingen.
-	3.	het distribueren van software en documentatie, voor zover zij daartoe in staat en gerechtigd is.
-	4.	contacten te onderhouden met andere nationale en internationale organisaties met vergelijkbare doelstellingen.
-	5.	het opbouwen en onderhouden van contacten met leveranciers van hardware, software, kennis en/of kunde, die geacht worden voor haar leden van belang te zijn.
+	a.	het met regelmaat organiseren van onafhankelijke technische conferenties voor leden, waarbij ook leveranciers en gelieerde groepen zich kunnen presenteren.
+	b.	het stimuleren, initiëren en organiseren van thema-bijeenkomsten en andere ontmoetingen.
+	c.	het distribueren van software en documentatie, voor zover zij daartoe in staat en gerechtigd is.
+	d.	contacten te onderhouden met andere nationale en internationale organisaties met vergelijkbare doelstellingen.
+	e.	het opbouwen en onderhouden van contacten met leveranciers van hardware, software, kennis en/of kunde, die geacht worden voor haar leden van belang te zijn.
 
 ## Duur
 ### Artikel 3
@@ -105,18 +99,20 @@ Ieder lid is jaarlijks een contributie verschuldigd. De hoogte van de contributi
 ## Bestuur
 ### Artikel 8
 1.	Het bestuur bestaat uit ten minste drie natuurlijke personen, die uit hun midden een voorzitter, een secretaris en een penningmeester aanwijzen.
-2.  Bestuursleden hebben ieder één (1) stem in de bestuursvergadering. Bij staken van stemmen beslist de voorzitter, bij afwezigheid van de voorzitter beslist het oudste aanwezige bestuurslid. (Toevoeging WBTR artikel 1)
-3.	De bestuursleden worden door de algemene ledenvergadering benoemd uit de leden van de vereniging.
+2.  Bestuursleden hebben ieder één (1) stem in de bestuursvergadering. Bij staken van stemmen beslist de voorzitter, bij afwezigheid van de voorzitter beslist het oudste aanwezige bestuurslid.
+3.	Een bestuurder neemt niet deel aan de beraadslaging en besluitvorming indien hij daarbij een direct of indirect persoonlijk belang heeft dat tegenstrijdig is met het belang van de vereniging en de met haar verbonden onderneming of organisatie. Wanneer hierdoor geen bestuursbesluit kan worden genomen wordt het besluit genomen door het bestuur onder schriftelijke vastlegging van de overwegingen die aan het besluit ten grondslag liggen.
+4.	De bestuursleden worden door de algemene ledenvergadering benoemd uit de leden van de vereniging.
 	De algemene ledenvergadering stelt het aantal bestuursleden vast.
-4.	Bestuursleden kunnen te allen tijde onder opgaaf van redenen door de algemene ledenvergadering worden geschorst en ontslagen. De algemene ledenvergadering besluit tot schorsing of ontslag met een meerderheid van twee/derde van de uitgebrachte stemmen.
-5.	De schorsing eindigt wanneer de algemene ledenvergadering niet binnen drie maanden daarna tot ontslag heeft besloten. Het geschorste bestuurslid wordt in de gelegenheid gesteld zich in de algemene ledenvergadering te verantwoorden en kan zich daarbij door een raadsman doen bijstaan.
-6.	Bestuursleden worden benoemd voor een periode van maximaal drie (3) jaar. Onder een jaar wordt te dezen verstaan de periode tussen twee opeenvolgende jaarlijkse algemene ledenvergaderingen. De bestuursleden treden af volgens een door het bestuur op te maken rooster. Een volgens het rooster aftredend bestuurslid is onbeperkt onmiddellijk herbenoembaar.
-7.  Bestuurstaken worden zo ordentelijk mogelijk overgedragen. Een vertrekkende bestuurder moet de gelegenheid krijgen te laten zien wat hij heeft gedaan tijdens zijn bestuursperiode. Is alles goed overgedragen, dan kan het overig bestuur hem décharge verlenen. (Toevoeging WBTR artikel 10)
-8.	Indien het aantal bestuursleden beneden het in lid 1 vermelde minimum is gedaald, blijft het bestuur niettemin bevoegd. Het bestuur is verplicht zo spoedig mogelijk een algemene ledenvergadering te beleggen, waarin de voorziening in de vacature(s) aan de orde komt.
-9.	Op de vergaderingen en de besluitvorming van het bestuur is het bepaalde in de artikelen 11 tot en met 14 zoveel mogelijk van toepassing.
+5.	Bestuursleden kunnen te allen tijde onder opgaaf van redenen door de algemene ledenvergadering worden geschorst en ontslagen. De algemene ledenvergadering besluit tot schorsing of ontslag met een meerderheid van twee/derde van de uitgebrachte stemmen.
+6.	De schorsing eindigt wanneer de algemene ledenvergadering niet binnen drie maanden daarna tot ontslag heeft besloten. Het geschorste bestuurslid wordt in de gelegenheid gesteld zich in de algemene ledenvergadering te verantwoorden en kan zich daarbij door een raadsman doen bijstaan.
+7.	Bestuursleden worden benoemd voor een periode van maximaal drie (3) jaar. Onder een jaar wordt te dezen verstaan de periode tussen twee opeenvolgende jaarlijkse algemene ledenvergaderingen. De bestuursleden treden af volgens een door het bestuur op te maken rooster. Een volgens het rooster aftredend bestuurslid is onbeperkt onmiddellijk herbenoembaar.
+8.  Bestuurstaken worden zo ordentelijk mogelijk overgedragen. Een vertrekkende bestuurder moet de gelegenheid krijgen te laten zien wat hij heeft gedaan tijdens zijn bestuursperiode. Is alles goed overgedragen, dan kan het overig bestuur hem décharge verlenen. (Toevoeging WBTR artikel 10)
+9.	Indien het aantal bestuursleden beneden het in lid 1 vermelde minimum is gedaald, blijft het bestuur niettemin bevoegd. Het bestuur is verplicht zo spoedig mogelijk een algemene ledenvergadering te beleggen, waarin de voorziening in de vacature(s) aan de orde komt.
+10.	In geval van ontstentenis of belet van een bestuurder zijn de andere bestuurders of is de andere bestuurder tijdelijk met het bestuur van de vereniging belast. In geval van ontstentenis of belet van alle bestuurders of van de enige bestuurder is de persoon die daartoe door de algemene vergadering wordt benoemd, tijdelijk met het bestuur van de vereniging belast.
+11.	Op de vergaderingen en de besluitvorming van het bestuur is het bepaalde in de artikelen 11 tot en met 14 zoveel mogelijk van toepassing.
 
 ### Artikel 9
-1.	Het bestuur is belast met het besturen van de vereniging.
+1.	Het bestuur is belast met het besturen van de vereniging. Bij de vervulling van haar taak richt het bestuur zich naar het belang van de vereniging en de met haar verbonden onderneming of organisatie.
 2.	Het bestuur is, met voorafgaande goedkeuring van de algemene ledenvergadering, bevoegd te besluiten tot het aangaan van overeenkomsten tot verkrijging, vervreemding of bezwaring van registergoederen en tot het aangaan van overeenkomsten waarbij de vereniging zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidstelling voor een schuld van een ander verbindt.
 
 ### Artikel 10
