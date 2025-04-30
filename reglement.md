@@ -103,9 +103,19 @@ uitsluitend in het geval van urgentie
 3. Machtigingen
     1. Ieder bij een ALV aanwezig lid mag per stemming maximaal twee machtigingen uitoefenen.
 
-## VI. Promotie
+## VI. Promotie en Sponsoring
+
+### 1. Promotie
 1. Het bestuur mag afspraken maken met organisaties, om leden van die organisaties tegen gereduceerd tarief deel te laten nemen aan activiteiten van NLUUG. Deze reductie geldt uitsluitend voor natuurlijke personen. Dit ter promotie van het verenigingslidmaatschap, en/of ter bevordering van de uitwisseling van kennis.
 2. Het bestuur kan speciale kortingsregelingen aangaan met niet-Nederlandse gelieerde organisaties ter bevordering van de internationale uitwisseling van kennis.
+
+### 2. Sponsoring
+1. Sponsors dienen zich aan de NLUUG huisregels te conformeren.
+2. Sponsoring dient duidelijk te worden gecommuniceerd en als zodanig duidelijk herkenbaar te zijn.
+3. De afspraken tussen de sponsor en NLUUG worden vastgelegd in een sponsorcontract.
+4. NLUUG leden die een relatie hebben met, of een belang hebben in, een actieve sponsor kunnen geen deel uit maken van de sponsorcommissie.
+5. Leden kunnen bezwaar indienen tegen een bepaalde sponsor. Dit moet schriftelijk kenbaar worden gemaakt aan het bestuur. Het bestuur moet hier een beslissing over nemen.
+6. De leden van de sponsorcommissie mogen binnen de standaard sponsorpakketten overeenkomsten aangaan met sponsoren. Uitzonderingen alleen na schriftelijke goedkeuring van het bestuur.
 
 ## VII. Derden
 1. Het bestuur mag alleen financieel en organisatorisch bijdragen aan (onderdelen van) activiteiten van derden die passen binnen de
