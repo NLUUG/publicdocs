@@ -32,28 +32,29 @@ De laatste versie van het Statuut en het Reglement vindt u op het ledendeel van 
 6. De bedrijfsregelingen zijn samengesteld uit het eenheidslidmaatschapstarief inclusief conferenties tegen ledentarief. De bedragen worden vermeld op de website van de vereniging.
 7. De volgende verhoudingen in bedrijfsregelingen liggen vast:
 
-| bedrijfsregeling         |  Type  | Factor | Leden |
-| ------------------------ | ------ | ------ | ----- |
-| Bedrijfsregeling-1       |    B   |   1    |   1   |
-| Bedrijfsregeling-2       |    B   |   2    |   3   |
-| Bedrijfsregeling-4       |    B   |   3    |   4   |
-| Bedrijfsregeling-8       |    B   |   8    |  10   |
-| Bedrijfsregeling-16      |    B   |  16    |  18   |
+| bedrijfsregeling         |  Type  | Factor | Personen |
+| ------------------------ | ------ | ------ | -------- |
+| Bedrijfsregeling-1       |    B   |   1    |   1      |
+| Bedrijfsregeling-2       |    B   |   2    |   3      |
+| Bedrijfsregeling-4       |    B   |   3    |   4      |
+| Bedrijfsregeling-8       |    B   |   8    |  10      |
+| Bedrijfsregeling-16      |    B   |  16    |  18      |
 
 P = Natuurlijk Persoon, B = Bedrijfsregeling, E = Erelid
 
 ### 2. Voordelen leden
 1. Leden ontvangen informatie over de activiteiten van de vereniging.
 2. Uitsluitend leden hebben toegang tot het afgesloten ledengedeelte van de website.
-3. Leden kunnen met elkaar in contact treden via door de vereniging aangeboden communicatiemiddellen. Deze communicatiemiddellen zij uitsluitend toegankelijk voor leden en worden niet gemodereerd.
+3. Leden kunnen met elkaar in contact treden via door de vereniging aangeboden communicatiemiddellen. Deze communicatiemiddellen zijn uitsluitend toegankelijk voor leden en worden niet gemodereerd.
 4. Leden betalen een lagere toegangsprijs voor de conferentie dan niet-leden.
+5. Leden kunnen zitting nemen in commissies en/of bestuur.
 
 ### 3. Voordelen bedrijfsregelingen en donateurs
 1. Donateurs worden vermeld op de website.
-2. Organinisaties met een bedrijfsregeling kunnen hun bijdrage gebruiken om lidmaatschappen (van natuurlijke personen) mee te voldoen, tot een maximum van het aantal leden genoemd in artikel 2.7.
-3. Een organinisatie met een bedrijfsregeling die minimaal twee keer het eenheidstarief bijdraagt mag elke conferentie iemand aanmelden zonder lidmaatschapsverplichting. Deze persoon wordt opgenomen in de administratie als ‘introducee’ en kan geen tweede keer naar een evenement zonder volwaardig lid te worden.
-4. De organisatie is niet bevoegd het persoonlijke lidmaatschap namens de medewerker op te zeggen. Het lidmaatschap is persoonsgebonden en loopt dus ook zonder deelname aan een bedrijfsregeling door. Met dit verschil dat de verantwoordelijkheid voor contributiebetaling wordt verlegd van de organisatie naar de medewerker. De organisatie stelt de medewerker (bij uitdiensttreding) hiervan op de hoogte.
-5. Voor de contributierun neemt de NLUUG contact op met de organisatie met het verzoek eventuele wijzigingen in de regeling en factuurgegevens door te geven. De verantwoordelijkheid voor het tijdig doorgeven van mutaties ligt bij de organisatie.
+2. Organinisaties met een bedrijfsregeling kunnen hun bijdrage gebruiken om lidmaatschappen (van natuurlijke personen) of bezoekers (zonder stemrecht) aan de conferentie mee te voldoen, tot een maximum van het aantal personen genoemd in artikel 2.7.
+3. De organisatie is niet bevoegd het persoonlijke lidmaatschap namens de medewerker op te zeggen. Het lidmaatschap is persoonsgebonden en loopt dus ook zonder deelname aan een bedrijfsregeling door. Met dit verschil dat de verantwoordelijkheid voor contributiebetaling wordt verlegd van de organisatie naar de medewerker. De organisatie stelt de medewerker (bij uitdiensttreding) hiervan op de hoogte.
+4. Voor de contributierun neemt de NLUUG contact op met de organisatie met het verzoek eventuele wijzigingen in de regeling en factuurgegevens door te geven. De verantwoordelijkheid voor het tijdig doorgeven van mutaties ligt bij de organisatie.
+
 
 ### 4. Conferenties
 1. Toegang tot de conferenties voor bijzondere deelnemers zoals sprekers, exposanten, vertegenwoordigers van sponsors en leden van zustergroepen vindt plaats onder door het bestuur te bepalen voorwaarden.
