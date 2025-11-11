@@ -113,9 +113,8 @@ uitsluitend in het geval van urgentie
 1. Sponsors dienen zich aan de NLUUG huisregels te conformeren.
 2. Sponsoring dient duidelijk te worden gecommuniceerd en als zodanig duidelijk herkenbaar te zijn.
 3. De afspraken tussen de sponsor en NLUUG worden vastgelegd in een sponsorcontract.
-4. NLUUG leden die een relatie hebben met, of een belang hebben in, een actieve sponsor kunnen geen deel uit maken van de sponsorcommissie.
-5. Leden kunnen bezwaar indienen tegen een bepaalde sponsor. Dit moet schriftelijk kenbaar worden gemaakt aan het bestuur. Het bestuur moet hier een beslissing over nemen.
-6. De leden van de sponsorcommissie mogen binnen de standaard sponsorpakketten overeenkomsten aangaan met sponsoren. Uitzonderingen alleen na schriftelijke goedkeuring van het bestuur.
+4. Leden kunnen bezwaar indienen tegen een bepaalde sponsor. Dit moet schriftelijk kenbaar worden gemaakt aan het bestuur. Het bestuur moet hier een beslissing over nemen.
+5. De leden van de sponsorcommissie mogen binnen de standaard sponsorpakketten overeenkomsten aangaan met sponsoren. Uitzonderingen alleen na schriftelijke goedkeuring van het bestuur.
 
 ## VII. Derden
 1. Het bestuur mag alleen financieel en organisatorisch bijdragen aan (onderdelen van) activiteiten van derden die passen binnen de
