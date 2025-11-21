@@ -1,4 +1,4 @@
-versie 2022-01-12
+versie 2025-11-20
 
 Reglement behorende bij de Statuten van de “Nederlandse Lokale UNIX-Systems Gebruikers Groep (Nluug)”, kortweg vereniging “NLUUG”.
 
